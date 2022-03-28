@@ -37,7 +37,7 @@ Next, in the Challenge_2_Loan_Qualifier directory (same one where you found this
 
 To begin with, the app asks the user to enter a file path to access a list of banks. The user needs to enter the exact filepath, data/daily_rate_sheet.csv, as shown here:
 
-![Prompts customer to enter .csv file path.](images/enter_file_path.png)
+![Prompts customer to enter .csv file path.](images/input_file_path.png)
 
 Next, the user will be prompted to input a number of metrics that quantify their eligibility to apply for a loan at select banks. For example:
 
@@ -45,7 +45,7 @@ Next, the user will be prompted to input a number of metrics that quantify their
 
 A list of applicable banks will then be generated depending on the user's eligibility. The user will then be asked if they wish to save their list of banks they qualify for:
 
-![Asks user if they would like to save their list of applicable banks.](images/saving_list_question.png)
+![Asks user if they would like to save their list of applicable banks.](images/to_save_list.png)
 
 If the user answers "y", they will be asked to input an output file path (.csv) to save their list of applicable loans to. The application will save the data accordingly and then terminate:
 
