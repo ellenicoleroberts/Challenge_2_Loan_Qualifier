@@ -1,0 +1,968 @@
+   50  python 401k.py
+   51  python 401k.py
+   52  python 401k.py
+   53  python 401k.py
+   54  python 401k.py
+   55  python 401k.py
+   56  python 401k.py
+   57  python 401k.py
+   58  python 401k.py
+   59  print(f"la di di de da")
+   60  /usr/bin/python
+   61  source /Users/nicoleroberts/opt/anaconda3/bin/activate
+   62  conda activate dev
+   63  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/nested_data.py"
+   64  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/importing.py"
+   65  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/importing.py"
+   66  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/importing.py"
+   67  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/importing.py"
+   68  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/importing.py"
+   69  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/importing.py"
+   70  conda run -n dev --no-capture-output --live-stream python "/Users/nicoleroberts/Dropbox/My Mac (Nicole’s MacBook Pro)/Desktop/FinTech-Workspace/Python_Project/importing.py"
+   71  conda activate dev
+   72  cd ~
+   73  cd Desktop
+   74  cd FinTeck-Workspace
+   75  cd FinTech-Workspace
+   76  ls
+   77  cd Python_Project
+   78  ls
+   79  python 401k.py
+   80  python 401k.py
+   81  python 401k.py
+   82  python Conditionals.;py
+   83  python Conditionals.py
+   84  python Conditionals.py
+   85  python Conditionals.py
+   86  python Conditionals.py
+   87  python Conditionals.py
+   88  python Conditionals.py
+   89  python Conditionals.py
+   90  python Conditionals.py
+   91  python Conditionals.py
+   92  python Conditionals.py
+   93  python Conditionals.py
+   94  python Conditionals.py
+   95  python Conditionals.
+   96  python Conditionals.py
+   97  python Conditionals
+   98  python Conditionals
+   99  python Conditionals.py
+  100  python Conditionals.py
+  101  python Conditionals.py
+  102  python Conditonals.py
+  103  python Conditionals.py
+  104  python Conditionals.py
+  105  python Conditionals.py
+  106  python Conditionals.py
+  107  python Conditionals.py
+  108  python Conditionals.py
+  109  python Conditionals.py
+  110  python Conditionals.py
+  111  python Conditionals.py
+  112  python Conditionals.py
+  113  python Conditionals.py
+  114  python Conditionals.py
+  115  python Conditionals.py
+  116  python Conditonals.py
+  117  python Conditionals.py
+  118  python Conditionals.py
+  119  python Conditionals.py
+  120  python Homebuying1.py
+  121  python Homebuying1.py
+  122  python Homebuying1.py
+  123  python Class2
+  124  python Class2
+  125  pwd
+  126  cd ..
+  127  git clone
+  128  https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  129  git close
+  130  git clone
+  131  git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  132  cd Python_Projects
+  133  ls
+  134  cd Python_Project
+  135  ls
+  136  python manipulating_lists.py
+  137  python manipulating_lists.py
+  138  python manipulating_lists.py
+  139  python manipulating_variables.py
+  140  python manipulating_lists.py
+  141  python manipulating_lists.py
+  142  python manipulating_lists.py
+  143  python manipulating_lists.py
+  144  python manipulating_lists.py
+  145  python manipulating_lists.py
+  146  python manipulating_lists.py
+  147  python manipulating_lists.py
+  148  python manipulating_lists.py
+  149  python manipulating_lists.py
+  150  python dicts.py
+  151  python Class2.py
+  152  python functions.py
+  153  python functions.py
+  154  pythons functions.py
+  155  python functions.py
+  156  python functions.py
+  157  python functions.py
+  158  python functions.py
+  159  python functions.py
+  160  python functions.py
+  161  python Homebuying1.py
+  162  python Homebuying1.py
+  163  python Homebuying1.py
+  164  python functions.py
+  165  python functions.py
+  166  python Homebuying1.py
+  167  python Homebuying1.py
+  168  python Homebuying1.py
+  169  python Homebuying1.py
+  170  python Homebuying1.py
+  171  python Homebuying1.py
+  172  python Homebuying1.py
+  173  python Homebuying1.py
+  174  python Homebuying1.py
+  175  python Homebuying1.py
+  176  python Homebuying.py
+  177  python Homebuying1.py
+  178  python Homebuying1.py
+  179  python Homebuying1.py
+  180  python forloops.py
+  181  pwd
+  182  python forloops.py
+  183  python forloops.py
+  184  python forloops.py
+  185  python forloops.py
+  186  python forloops.py
+  187  python forloops.py
+  188  python forloops.py
+  189  python forloops.py
+  190  python forloops.py
+  191  python forloops.py
+  192  python nested_data.py
+  193  python importing.py
+  194  python importing.py
+  195  python importing.py
+  196  python importin.py
+  197  python importing.py
+  198  python importing.py
+  199  python class2_exercise.py
+  200  python class2_exercise.py
+  201  python class2_exercise.py
+  202  python class2_exercise.py
+  203  python class2_exercise.py
+  204  python testing.py
+  205  python testing.py
+  206  testing.py
+  207  python testing.py
+  208  python testing.py
+  209  python testing.py
+  210  pythong testing.py
+  211  python testing.py
+  212  python testing.py
+  213  pythong testing.py
+  214  python testing.p
+  215  pythong testing.py
+  216  python testing.py
+  217  pythong testing.py
+  218  python testing.py
+  219  python testing.py
+  220  python testing.py
+  221  python testing.py
+  222  python testing.py
+  223  python testing.py
+  224  python testing.py
+  225  testing.py
+  226  python testing.py
+  227  pythong testing.py
+  228  python testing.py
+  229  python testing.py
+  230  python testing.py
+  231  python testing.py
+  232  pythong testing.py
+  233  python testing.py
+  234  pythom testing.py
+  235  python testing.py
+  236  python testing.py
+  237  python testng.py
+  238  python testing.py
+  239  python testing.py
+  240  python testing.py
+  241  python testing.py
+  242  python testing.py
+  243  python testing.py
+  244  python testing.py
+  245  python Conditionals.py
+  246  python Conditionals.py
+  247  python functions.py
+  248  python functions.py
+  249  python functions.py
+  250  python forloops.py
+  251  python forloops.py
+  252  python forloops.py
+  253  python forloops.py
+  254  python forloops.py
+  255  python forloops.py
+  256  python forloops.py
+  257  python forloops.py
+  258  python functions.py
+  259  pythong forloops.py
+  260  python forloops.py
+  261  python forloops.py
+  262  python forloops.py
+  263  source /Users/nicoleroberts/opt/anaconda3/bin/activate
+  264  conda activate dev
+  265  conda run -n dev --no-capture-output --live-stream python
+  266  conda avtivate dev
+  267  conda activate dev
+  268  pwd
+  269  cd Desktop
+  270  cd FinTech-Workspace
+  271  ls
+  272  cd Python_Project
+  273  ls
+  274  python nested_data.py
+  275  python nested_data.py
+  276  python nested_data.py
+  277  python nested_data.py
+  278  cd .
+  279  cd pwd
+  280  pwd
+  281  cd ..
+  282  cd Python_Project
+  283  python pathways_to_success.py
+  284  python pathaways_to_succes.py
+  285  python csvtricks.py
+  286  python csvtricks.py
+  287  python csvtricks.py
+  288  python csvtricks.py
+  289  python csvtricks.py
+  290  python csvtricks.py
+  291  python csvtricks.py
+  292  python csvtricks.py
+  293  python csvtricks.py
+  294  python csvtricks.py
+  295  python csvtricks.py
+  296  pythong csvtricks.py
+  297  python csvtricks.py
+  298  python csvtricks.py
+  299  python csvtricks.py
+  300  python csvtricks.py
+  301  python csvtricks.py
+  302  python csvtricks.py
+  303  python Challenge1.py
+  304  python challtest.py
+  305  python calltest.py
+  306  pythong challtest.py
+  307  python challtest.py
+  308  python challtest.py
+  309  python challtest.py
+  310  python challtest.py
+  311  python challtest.py
+  312  python challtest.py
+  313  challtest.py
+  314  python challtest.py
+  315  python challtest.py
+  316  python challtest.py
+  317  python challtest1.py
+  318  python challtest.py
+  319  pythong challtest.py
+  320  python challtest.py
+  321  cd Desktop
+  322  cd ~
+  323  cd Desktop
+  324  mkdir Bootcamp
+  325  cd Bootcamp
+  326  git init
+  327  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-03-2022-U-B.git
+  328  git pull
+  329  git pull
+  330  git clone git@github.com:ellenicoleroberts/challenge1.git
+  331  ls
+  332  cd challenge1
+  333  touch file1.py file2.pdf file3.csv
+  334  ls
+  335  git status 
+  336  git add file1.py
+  337  git status
+  338  git add .
+  339  git status
+  340  git commit -m "updating files"
+  341  git push
+  342  vim file1.py
+  343  git status
+  344  git add .
+  345  git status
+  346  git commit -m "updated file"
+  347  git push
+  348  git branch test_branch
+  349  git branch
+  350  git switch test_branch
+  351  git branch
+  352  vim file3.csv
+  353  git status
+  354  git add .
+  355  git commit
+  356  git commit -m "command"
+  357  git push
+  358  git push --set-upstream origin test_branch
+  359  vim file3.csv
+  360  cd ..
+  361  git clone git@github.com:ellenicoleroberts/test.git
+  362  ls
+  363  cd test
+  364  touch file1.py
+  365  ls
+  366  git status
+  367  git add file1.py
+  368  git status
+  369  git commit -m "updating_test"
+  370  get push
+  371  git push
+  372  cd ~
+  373  cd Desktop
+  374  cd FinTech-Workspac
+  375  cd FinTech-Workspace
+  376  cd Python_Project
+  377  cd challtest.py
+  378  python challtest.py
+  379  python challtest.py
+  380  python challtest.py
+  381  python challtest.py
+  382  python challtest.py
+  383  python challtest.py
+  384  python challtest.py
+  385  python Challenge1.py
+  386  python Challenge1.py
+  387  python Challenge1.py
+  388  python Challenge1.py
+  389  python Challenge1.py
+  390  python Challenge1.py
+  391  python Challenge1.py
+  392  python Challenge1.py
+  393  pip -V
+  394  pip freeze
+  395  pip install fire
+  396  pip install questionary
+  397  python loan_qualifier.py
+  398  python loan_qualifier.py
+  399  python loan_qualifer.py
+  400  python loan qualifier.py
+  401  python loan_qualifier.py
+  402  python loan_qualifier.py
+  403  python loan_qualifier.py
+  404  python loan_qualifier.py
+  405  python loan_qualifier.py
+  406  python loan_qualifier.py
+  407  py csvtricks.py
+  408  python csvtricks.py
+  409  python csvtricks.py
+  410  python csvtricks.py
+  411  python csvtricks.py
+  412  python csvtricks.py
+  413  python csvtricks.py
+  414  python csvtricks.py
+  415  python csvtricks.py
+  416  python loan_qualifierssolution.py
+  417  python loan_qualifiersolution.py
+  418  python loan_qualifier.py
+  419  python loan_qualifier.py
+  420  python loan_qualifier.py
+  421  python loan_qualifier.py
+  422  python loan_qualifier.py
+  423  python loan_qualifier.py
+  424  python loan_qualifier.py
+  425  python loan_qualifier.py
+  426  python loan_qualifier.py
+  427  python loan_qualifier.py
+  428  python cd
+  429  python pwed
+  430  python pwd
+  431  pwd
+  432  cd ~
+  433  cd Desktop
+  434  cd FinTech-Workspace
+  435  cd LOAN_QUALIFIER
+  436  python loan_qualifier.py
+  437  cd ~
+  438  cd Desktop
+  439  cd Bootcamp
+  440  cd CU-VIRT-FIN-PT-03-2022-U-B
+  441  git fetch
+  442  git pull
+  443  python ~
+  444  cd ~
+  445  cd Desktop
+  446  cd Bootcamp
+  447  pwd
+  448  python dicts.py
+  449  python dicts.py
+  450  python cd ..
+  451  cd ..
+  452  cd Bootcamp
+  453  cd CU-VIRT-FIN-PT-03-2022-U-B
+  454  cd 02-Financial-Applications-Python
+  455  cd 2
+  456  cd Activities
+  457  cd 01_Ins_ATM_Applicationn
+  458  cd 01_Ins_ATM_Application
+  459  cd Unsolved
+  460  cd atm
+  461  python atm.py
+  462  123456
+  463  python atm.py
+  464  python atm.py
+  465  python atm.py
+  466  python atm.py
+  467  python atm.py
+  468  cd ..
+  469  cd ..
+  470  cd ..
+  471  cd /Users/nicoleroberts/Dropbox/My\ Mac\ \(Nicole’s\ MacBook\ Pro\)/Desktop/Bootcamp/CU-VIRT-FIN-PT-03-2022-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic
+  472  cd Solved
+  473  atm.py
+  474  python atm.py
+  475  python atm.py
+  476  python atm.py
+  477  python atm.py
+  478  python atm.py
+  479  python atm.py
+  480  python atm.py
+  481  python atm.py
+  482  python atm.py
+  483  python atm.py
+  484  python atm.py
+  485  python atm.py
+  486  python atm.py
+  487  python atm.py
+  488  python atm.py
+  489  python atm.py
+  490  python atm.py
+  491  python atm.py
+  492  python atm.py
+  493  python atm.py
+  494  python atm.py
+  495  python atm.py
+  496  python atm.py
+  497  cd ..
+  498  cd ..
+  499  cd 04_Stu_ATM_Application_Code
+  500  cd Unsolved
+  501  python atm.p
+  502  python atm.py
+  503  python atm.py
+  504  python atm.py
+  505  python atm.py
+  506  python atm.py
+  507  python atm.py
+  508  python atm.py
+  509  python atm.py
+  510  python atm.py
+  511  python atm.py
+  512  python atm.py
+  513  python atm.py
+  514  python atm.py
+  515  python atm.py
+  516  python atm.py
+  517  python atm.py
+  518  cd ..
+  519  python atm.py
+  520  ls
+  521  cd Solved
+  522  python atm.py
+  523  python atm.py
+  524  python atm.py
+  525  python atm.py
+  526  python atm.py
+  527  python atm.py
+  528  python atm.py
+  529  cd ..
+  530  cd..
+  531  cd ..
+  532  cd 05_Stu_ATM_Modularization
+  533  cd Solved
+  534  cd atm
+  535  python atm.py
+  536  python atm.py
+  537  python atm.py
+  538  python atm.py
+  539  python atm.py
+  540  python atm.py
+  541  python atm.py
+  542  python cd
+  543  python pwd
+  544  pwd
+  545  pip intall Fire
+  546  pip install Fire
+  547  pip install fire
+  548  cd
+  549  cd ..
+  550  cd Desktop
+  551  cd ~
+  552  cd Desktop
+  553  cd FinTech-Workspace
+  554  cd Python_Project
+  555  ls
+  556  cd cli.py
+  557  python cli.py
+  558  python cli.py
+  559  python --pants=True
+  560  python cli.py --pants=True
+  561  cd ~
+  562  python Desktop
+  563  cd Desktop
+  564  cd Bootcamp
+  565  cd CU-VIRT-FIN-PT-03-2022-U-B
+  566  cd 02-Financial-Applications-Python
+  567  cd ~
+  568  cd Desktop
+  569  cd FinTech-Workspace
+  570  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  571  cd Unsolved
+  572  cd app.py
+  573  python app.py
+  574  python app.py
+  575  cd Desktop
+  576  cd FinTech-Workspace
+  577  cd01_Adding_Fire_to_the_Loan_Qualifier_Ap p
+  578  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  579  conda activate dev
+  580  cd Unsolve
+  581  cd Unsolved
+  582  python app.py
+  583  conda activate dev
+  584  cd Desktop
+  585  cd FinTech-Workspace
+  586  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  587  cd Unsolved
+  588  ls
+  589  python app.py
+  590  conda activate dev
+  591  pip install fire
+  592  pip install questionary
+  593  cd Desktop
+  594  cd FinTech-Workspace
+  595  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  596  cd Unsolved
+  597  python app.py
+  598  conda activate dev
+  599  cd Desktop
+  600  cd FinTech-Workspace
+  601  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  602  cd Unsolved
+  603  python app.py --credit_score=750
+  604  python app.py --credit_score=750
+  605  python app.py --credit_score=750
+  606  python app.py --credit_score=750py
+  607  python app.py
+  608  /Users/nicoleroberts/opt/anaconda3/envs/testdev/bin/jupyter-labhub ; exit;
+  609  cd Desktop
+  610  cd FinTech-Workspace
+  611  cd python app.py --credit_score=750
+  612  cd python app.py --credit_score=750
+  613  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  614  cd Solved
+  615  ls
+  616  cd app.py
+  617  python app.py
+  618  conda activate dev
+  619  cd Desktop
+  620  ls
+  621  python app.py
+  622  python app.py --credit_score=750, --debt=500, --income=60000
+  623  python app.py --credit_score=750, --debt=500, --income=60000
+  624  python app.py
+  625  python app.py
+  626  python app.py
+  627  cd ..
+  628  cd ..
+  629  cd LOAN_QUALIFIER
+  630  python loan_qualifier.py
+  631  python loan_qualifier.py
+  632  python loan_qualifier.py
+  633  python loan_qualifier.py --credit_score=750
+  634  python loan_qualifier.py --credit_score=400
+  635  python loan_qualifier.py --credit_score=550
+  636  python loan_qualifier.py --credit_score=550 --debt=788 income=76000
+  637  python loan_qualifier.py --credit_score=550 --debt=788 --income=76000
+  638  python loan_qualifier.py --credit_score=650 --debt=788 --income=76000
+  639  cd ~
+  640  cd Desktop
+  641  cd FinTech-Workspace
+  642  cd Python_Project
+  643  python dialogue.py
+  644  python diaglogue.py
+  645  python dialogue.py
+  646  python dialogue.py
+  647  python dialogue.py
+  648  python dialogue.py
+  649  cd ..
+  650  cd LOAN_QUALIFIER
+  651  cd 02_Adding_questionary_to_Loan_Qualifier
+  652  cd unsolved
+  653  cd ~
+  654  cd Desktop
+  655  cd FinTech-Workspace
+  656  cd Python_Project
+  657  ls
+  658  cd ..
+  659  LOAN_QUALIFIER
+  660  cd LOAN_QUALIFIER
+  661  pythoin loan_qualifier.py
+  662  python loan_qualifier.py
+  663  python loan_qualifier.py
+  664  python loan_qualifier.py
+  665  python loan_qualifier.py
+  666  python loan_qualifier.py
+  667  cd ..
+  668  cd Python_Projects
+  669  python dialgouoe
+  670  python dialogue
+  671  python dialogue.py
+  672  cd Python_Project
+  673  python dialogue.py
+  674  python dialogue.py
+  675  python dialogue.py
+  676  python dialogue.py
+  677  python dialogue.py
+  678  python dialogue.py
+  679  python dialogue.py
+  680  python dialogue.py
+  681  python dialogue.py
+  682  python dialogue.py
+  683  python dialogue.py
+  684  python dialogue.py
+  685  cd ..
+  686  cd LOAN_QUALIFIER
+  687  python loan_qualifier.py
+  688  python loan_qualifier.py
+  689  python loan_qualifier.py
+  690  python loan_qualifier.py
+  691  python loan_qualifier.py
+  692  cd ..
+  693  git clone git@github.com:ellenicoleroberts/test_repo.git
+  694  ls
+  695  cd test_repo
+  696  pwd
+  697  git status
+  698  git add file1.py
+  699  touch new_file.txt
+  700  git status
+  701  git add README.md
+  702  git status
+  703  git add new_file.txt
+  704  git status
+  705  touch test.py
+  706  git status
+  707  touch test2.txt
+  708  git status
+  709  git add .
+  710  git status
+  711  git commit -m "Playing around with commits."
+  712  git status
+  713  git push
+  714  git config --global user.name Nicole Roberts
+  715  git config --global user.email elle.nicole.roberts@gmail.com
+  716  git config --list
+  717  ls
+  718  git status
+  719  pwd
+  720  cd ..
+  721  cd loan_repo
+  722  pwd
+  723  ls
+  724  ls
+  725  git status
+  726  git add .
+  727  git status
+  728  git commit -m
+  729  git commit -m "initial upload of loan files to git"
+  730  git status
+  731  git push
+  732  cd ..
+  733  git@github.com:ellenicoleroberts/learning_readme.git
+  734  git clone git@github.com:ellenicoleroberts/learning_readme.git
+  735  pwd
+  736  ls
+  737  cd learning_readme
+  738  ls
+  739  pip install== pytest==5.4.2
+  740  pip install == pytest==5.4.2
+  741  pip install pytest==5.4.2
+  742  cd ..
+  743  cd ..
+  744  cd Bootcamp
+  745  cd CU-VIRT-FIN-PT-03-2022-U-B
+  746  cd 02-Financial-Applications-Python
+  747  cd cd 2
+  748  cd 2
+  749  cd Activities
+  750  cd 02_Stu_Build_ATM_Functions
+  751  cd Solved
+  752  ls
+  753  conda create -n atmdev python=3.7 anaconda
+  754  conda activate atmdev
+  755  pip install -r requirements.txt
+  756  git clone git@github.com:ellenicoleroberts/atm.git
+  757  cd ../..
+  758  cd ../..
+  759  ../..
+  760  cd../..
+  761  cd ../..
+  762  git clone git@github.com:ellenicoleroberts/atm.git
+  763  touch atm.txt
+  764  ls
+  765  git status
+  766  git add .
+  767  git add atm.txt
+  768  git status
+  769  pwd
+  770  cd CU-VIRT-FIN-PT-03-2022-U-B
+  771  cd 02-Financial-Applications-Python
+  772  cd 2
+  773  cd Activities
+  774  git clone 02-Financial-Applications-Python
+  775  git clone
+  776  git clone git@github.com:ellenicoleroberts/atm.git
+  777  ls
+  778  cd atm
+  779  touch atm.txt
+  780  ls
+  781  git status
+  782  git add .
+  783  git status
+  784  git commit -m "this is the atm repo"
+  785  git status
+  786  git push
+  787  git push
+  788  git status
+  789  git add .
+  790  git status
+  791  git commit -m "Here are all of the in-class atm activities."
+  792  git status
+  793  git push
+  794  git status
+  795  git status
+  796  pip install pytest==5.4.2
+  797  conda update -n base -c defaults conda
+  798  p -V
+  799  pip -V
+  800  pip freeze
+  801  conda activate dev
+  802  conda activate atmdev
+  803  conda activate dev
+  804  conda create -n testdev python=3.7 anaconda
+  805  conda activate testdev
+  806  conda list
+  807  pip list
+  808  conda activate dev
+  809  conda activate test dev
+  810  conda activate testdev
+  811  conda activate dev
+  812  cd Desktop
+  813  cd Bootcamp
+  814  cd Nicole_Roberts_Portfolio
+  815  cd Challenges
+  816  cd Challenge_2_Loan_Qualifier
+  817  git status
+  818  git add .
+  819  git status
+  820  git commit -m "Initial commit of starter code."
+  821  git status
+  822  git push
+  823  ls
+  824  python app.py
+  825  python app.py
+  826  app
+  827  py.testx
+  828  python app.py
+  829  python app.py
+  830  python app.py
+  831  python app.py
+  832  python app.py
+  833  python app.py
+  834  python 
+  835  conda env list
+  836  jupyter lab
+  837  conda activate dev
+  838  cd Desktop
+  839  cd Bootcamp
+  840  cd Nicole_Roberts_Portfolio
+  841  cd Challenges/1
+  842  cd Challenge_!
+  843  ls
+  844  cd Challenges
+  845  cd Challenge_!
+  846  cd Challenge_1
+  847  python Challenge_1
+  848  python Challenge_1.py
+  849  conda activate dev
+  850  cd Desktop
+  851  cd Bootcamp
+  852  cd Nicole_Roberts_Portfolio
+  853  cd Challenges
+  854  cd Challenge_1
+  855  python Challenge_1.py
+  856  conda activate test dev
+  857  conda activate testdev
+  858  conda list
+  859  cond env list
+  860  conda env list
+  861  pip list
+  862  conda activate dev
+  863  pip list
+  864  conda list
+  865  pip list
+  866  conda list
+  867  conda activate testdev
+  868  conda list
+  869  conda activate atmdev
+  870  conda env list
+  871  conda list
+  872  conda activate dev
+  873  conda list
+  874  conda activate atmdev
+  875  pwd
+  876  cd Desktop 
+  877  cd Bootcamp
+  878  cd CU-VIRT-FIN-PT-03-2022-U-B
+  879  cd 02-Financial-Applications-Python
+  880  cd 2
+  881  cd Activities
+  882  cd Solved
+  883  cd atm
+  884  cd Solved
+  885  cd 02_Stu_Build_ATM_Functions
+  886  cd Solved
+  887  Jupyter Lab?  Do I use?  \n\nWhen to use X Code versus Visual Studio Code?
+  888   pip install -r requirements.txt
+  889  pip list
+  890  python atm.py
+  891  pwd
+  892  ../..
+  893  ..\..
+  894  cd ../..
+  895  pwd
+  896  ..\..
+  897  cd ..\..
+  898  cd ../..
+  899  cd Activities
+  900  cd atm
+  901  cd 02_Stu_Build_ATM_Functions
+  902  cd Solved
+  903  cd atm
+  904  python atm.py
+  905  git status
+  906  git add .
+  907  git status
+  908  git commit -m "final updates to atm.py"
+  909  git stauts
+  910  git status
+  911  git push
+  912  git branch
+  913  git branch test_branch
+  914  git branch
+  915  git switch test_branc
+  916  git swtich test_branch
+  917  git switch test_branch
+  918  git status
+  919  ls
+  920  git status
+  921  git add .
+  922  git status
+  923  git branch
+  924  git commit -m "testing branch"
+  925  git status
+  926  git push --set-upstream origin test_branch
+  927  git status
+  928  git branch
+  929  git branch switch main
+  930  git status
+  931  git branch
+  932  git switch main
+  933  git status
+  934  git branch
+  935  cd ../..
+  936  cd ../..
+  937  cd ~
+  938  cd Desktop
+  939  cd Bootcamp
+  940  ls
+  941  cd CHALLENGES
+  942  ls
+  943  python Challenge1.py
+  944  python Challenge1.py
+  945  python Challenge1.py
+  946  conda activate dev
+  947  cd ~
+  948  cd Desktop
+  949  cd Bootcamp
+  950  git clone git@github.com:ellenicoleroberts/Nicole_Roberts_Portfolio.git
+  951  cd Nicole_Roberts_Portfolio
+  952  cd Challenges
+  953  ls
+  954  cd Challenge_!
+  955  cd Challenge_1
+  956  ls
+  957  python Challenge_1.py
+  958  pwd
+  959  cd ..
+  960  ls
+  961  cd ../..
+  962  ls
+  963  cd Nicole_Roberts_Portfolio
+  964  git status
+  965  git add .
+  966  git status
+  967  git commit -m "Challenge_1.py committed"
+  968  git status
+  969  git push
+  970  ls
+  971  cd Challenges
+  972  ls
+  973  cd Challenge_2
+  974  ls
+  975  touch README.md
+  976  ls
+  977  touch app.py
+  978  ls
+  979  touch .gitignore
+  980  ls
+  981  history 50 > terminal_history.txt
+  982  cd ../..
+  983  history 50 > terminal_history.txt
+  984  git status
+  985  git add .
+  986  git status
+  987  git commit -m "Challenge_1 final"
+  988  git push
+  989  jupyter lab
+  990  cd Desktop
+  991  cd Bootcamp
+  992  cd Nicole_Roberts_Portfolio
+  993  cd Challenges
+  994  cd Challenge_2_Loan_Qualifier
+  995  python app.py
+  996  conda activate dev
+  997  python app.py
+  998  pip install Begin by cloning this repository and all its submodules using the following command:\n\n$ git clone --recursive https://github.com/nvlabs/instant-ngp\n$ cd instant-ngpgit clone --recursive https://github.com/nvlabs/instant-ngP
+  999  git clone --recursive https://github.com/nvlabs/instant-ngp
+ 1000  cd instant-ngp
+ 1001  conda activate dev
+ 1002  cd Desktop
+ 1003  cd Bootcamp
+ 1004  cd Nicole_Roberts_Portfolio
+ 1005  cd Challenges
+ 1006  cd Challenge_2_Loan_Qualifier
+ 1007  python app.py
+ 1008  python app.py
+ 1009  python app.py
+ 1010  python app.py
+ 1011  python app.py
+ 1012  cd ~
+ 1013  cd Desktop
+ 1014  cd Nicole_Roberts_Portfolio
+ 1015  ls
+ 1016  cd Challenge_2_Loan_Qualifier
+ 1017  python app.py

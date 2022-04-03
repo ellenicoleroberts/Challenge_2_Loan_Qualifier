@@ -1,4 +1,6 @@
-![A stylistic banner](images/banner.png)
+
+<img src= "images/banner.png" width="930" height="200">
+
 # Loan Qualifier
 
 This application connects a customer in search of a loan with a number of suitable banks. Using command-line-interface (CLI), the customer informs the app of their credit score, monthly debt-to-income ratio, loan-to-value ratio, and the size of their requested loan. The app then uses these metrics to filter through a list of banks, selecting only those which the customer qualifies for. The customer is able to save their list of applicable banks to a spreadsheet.
@@ -14,10 +16,8 @@ This application leverages python 3.7 with the following packages:
 * fire: for the entry point and CLI.
 * questionary: for user prompts and dialogues permitting an interactive experience.
 * pathlib: for creation of file paths allowing the application to interact with a computer's filesystem.
-* csv: for reading and writing .csv files
 
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+To run this application, first clone the GitHub repo this file is in into your Terminal. Next, to install these packages, while in this same repo in your Terminal, enter `pip install -r requirements.txt`.
 
 ---
 
